@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|c:\\users\\alves\\desktop\\autorization\\estados\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|solutionrelative:views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|c:\\users\\alves\\desktop\\autorization\\estados\\viewcomponents\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|solutionrelative:viewcomponents\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|c:\\users\\alves\\desktop\\autorization\\estados\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|c:\\users\\alves\\desktop\\autorization\\estados\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|solutionrelative:views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|c:\\users\\alves\\desktop\\autorization\\estados\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|c:\\users\\alves\\desktop\\autorization\\estados\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|solutionrelative:controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|c:\\users\\alves\\desktop\\autorization\\estados\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|c:\\users\\alves\\desktop\\autorization\\estados\\repositorio\\estadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|solutionrelative:repositorio\\estadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|c:\\users\\alves\\desktop\\autorization\\estados\\models\\estadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|solutionrelative:models\\estadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|c:\\users\\alves\\desktop\\autorization\\estados\\helper\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC94204-5087-466B-B8D7-F57AA1C2E3F7}|Estados.csproj|solutionrelative:helper\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T00:49:34.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\ViewComponents\\Menu.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\Menu.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\ViewComponents\\Menu.cs",
+              "RelativeToolTip": "ViewComponents\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T00:49:15.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T00:49:01.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Views\\Estado\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Views\\Estado\\Index.cshtml",
+              "RelativeToolTip": "Views\\Estado\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T00:48:51.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T00:42:32.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstadoController.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Controllers\\EstadoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstadoController.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Controllers\\EstadoController.cs",
+              "RelativeToolTip": "Controllers\\EstadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T00:39:36.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T00:35:12.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Repositorio\\EstadoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\EstadoRepositorio.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Repositorio\\EstadoRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\EstadoRepositorio.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAlwCsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:14:13.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EstadoModel.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Models\\EstadoModel.cs",
+              "RelativeDocumentMoniker": "Models\\EstadoModel.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Models\\EstadoModel.cs",
+              "RelativeToolTip": "Models\\EstadoModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA5wCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:13:24.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Criptografia.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Helper\\Criptografia.cs",
+              "RelativeDocumentMoniker": "Helper\\Criptografia.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Helper\\Criptografia.cs",
+              "RelativeToolTip": "Helper\\Criptografia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:11:04.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

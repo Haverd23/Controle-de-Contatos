@@ -1,0 +1,79 @@
+﻿@model List<EstadoModel>
+@{
+    ViewData["Title"] = "Listagem";
+}
+
+<br />
+
+@if (TempData["MensagemSucesso"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>Sucesso!</strong> @TempData["MensagemSucesso"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+@if (TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>Erro!</strong> @TempData["MensagemErro"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<br />
+<div class="text-center">
+    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <a class="btn btn-primary" asp-controller="Estado" asp-action="Criar" role="button">Adicionar novo usuario</a>
+    </div>
+
+    <h1 class="display-4">Listagem de usuarios</h1>
+
+    <table id="Estado-Table" class="table table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Idade</th>
+                <th scope="col">Login</th>
+                <th scope="col">Perfil</th>
+                <th scope="col">Senha</th>
+                <th scope="col">Data de Cadastro</th>
+                <th scope="col">Estado</th>
+                <th scope="col">Cidade</th>
+                <th scope="col">Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var estado in Model)
+                {
+                    <tr>
+                        <th scope="row">@estado.Id</th>
+                        <td>@estado.Name</td>
+                        <td>@estado.Idade</td>
+                        <td>@estado.Login</td>
+                        <td>@(estado.Perfil == Estados.Enums.PerfilEnum.Admin ? "Administrador" : "Padrão")</td>
+                        <td>@estado.Senha</td>
+                        <td>@estado.DataCadastro</td>
+                        <td>@estado.Estado</td>
+                        <td>@estado.Cidade</td>
+                        <td>
+                            <div class="btn-group" role="group">
+                                <a role="button" asp-action="Editar" asp-controller="Estado" asp-route-id="@estado.Id" class="btn btn-primary">Editar</a>
+                                <a role="button" asp-action="ApagarConfirmacao" asp-controller="Estado" asp-route-id="@estado.Id" class="btn btn-danger">Apagar</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="10" class="text-center">Nenhum usuario encontrado</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
