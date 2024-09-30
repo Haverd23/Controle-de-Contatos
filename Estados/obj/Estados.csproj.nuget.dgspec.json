@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Estados.csproj": {}
+    "C:\\Users\\alves\\Desktop\\EstadosMVC\\Controle-de-Contatos\\Estados\\Estados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Estados.csproj": {
+    "C:\\Users\\alves\\Desktop\\EstadosMVC\\Controle-de-Contatos\\Estados\\Estados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Estados.csproj",
+        "projectUniqueName": "C:\\Users\\alves\\Desktop\\EstadosMVC\\Controle-de-Contatos\\Estados\\Estados.csproj",
         "projectName": "Estados",
-        "projectPath": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\Estados.csproj",
+        "projectPath": "C:\\Users\\alves\\Desktop\\EstadosMVC\\Controle-de-Contatos\\Estados\\Estados.csproj",
         "packagesPath": "C:\\Users\\alves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alves\\Desktop\\Autorization\\Estados\\obj\\",
+        "outputPath": "C:\\Users\\alves\\Desktop\\EstadosMVC\\Controle-de-Contatos\\Estados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alves\\AppData\\Roaming\\NuGet\\NuGet.Config",

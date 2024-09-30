@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Estados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75d5b6b905f066ac86b512c1d5a03cd88cd25879")]
 [assembly: System.Reflection.AssemblyProductAttribute("Estados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Estados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
